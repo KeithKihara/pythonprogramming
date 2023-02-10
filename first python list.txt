@@ -1,0 +1,4 @@
+names = ["lebron,""charles"]
+numbers = [1,4,9,16]
+decimals = [42.3,45.6,50.5]
+print(names[0])
